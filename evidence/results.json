@@ -1,0 +1,28 @@
+{
+  "scope": "actual computation on a synthetic true-time/drift grid; no physical clock or NTP measurement",
+  "total_cases": 135,
+  "by_radius_seconds": {
+    "0": {
+      "cases": 45,
+      "invalid_bound_assumptions": 36,
+      "point_unsafe_allows": 4,
+      "interval_unsafe_allows": 4,
+      "interval_false_denies": 6
+    },
+    "15": {
+      "cases": 45,
+      "invalid_bound_assumptions": 18,
+      "point_unsafe_allows": 4,
+      "interval_unsafe_allows": 3,
+      "interval_false_denies": 10
+    },
+    "60": {
+      "cases": 45,
+      "invalid_bound_assumptions": 0,
+      "point_unsafe_allows": 4,
+      "interval_unsafe_allows": 0,
+      "interval_false_denies": 16
+    }
+  },
+  "assumption": "security conclusion applies only if the clock source is verified and the error bound contains actual true time"
+}

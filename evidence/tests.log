@@ -1,0 +1,11 @@
+test_before_issue_boundary_denied (test_time.TimeTests.test_before_issue_boundary_denied) ... ok
+test_expiry_boundary_denied (test_time.TimeTests.test_expiry_boundary_denied) ... ok
+test_invalid_values_rejected (test_time.TimeTests.test_invalid_values_rejected) ... ok
+test_sound_bound_has_no_unsafe_allow_on_grid (test_time.TimeTests.test_sound_bound_has_no_unsafe_allow_on_grid) ... ok
+test_unverified_clock_not_current (test_time.TimeTests.test_unverified_clock_not_current) ... ok
+test_verified_interior_allowed (test_time.TimeTests.test_verified_interior_allowed) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK

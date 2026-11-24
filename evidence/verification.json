@@ -1,0 +1,40 @@
+{
+  "executed_at_utc": "2026-11-24T06:56:07.929940+00:00",
+  "runtime": {
+    "python": "3.12.16",
+    "system": "Linux",
+    "machine": "aarch64"
+  },
+  "unique_regression_tests": 6,
+  "source_manifest_files": 15,
+  "local_links_checked": 11,
+  "isolation": {
+    "requested": true,
+    "probe": "blocked",
+    "errno": 101,
+    "exception": "OSError",
+    "interfaces": [
+      "lo"
+    ],
+    "default_ipv4_route": false,
+    "root_read_only": true,
+    "workspace_read_only": true,
+    "uid": 1000
+  },
+  "contribution": {
+    "slug": "security-research-and-assessments",
+    "area": "Inspectable research and assessments",
+    "title": "Access decisions under uncertain local time",
+    "contribution": "contributions/001-time-uncertainty-study.md",
+    "stage": "Synthetic parameter study with observations and explicit clock-bound assumptions",
+    "topics": [
+      "security-research",
+      "zero-trust",
+      "disconnected-systems",
+      "assurance"
+    ],
+    "description": "Inspectable research and assessments: Access decisions under uncertain local time. Synthetic parameter study with observations and explicit clock-bound assumptions."
+  },
+  "experiment_scope": "actual computation on a synthetic true-time/drift grid; no physical clock or NTP measurement",
+  "stage": "local contribution evidence; no customer or vendor outcome claim"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "security-research-and-assessments",
+  "area": "Inspectable research and assessments",
+  "title": "Access decisions under uncertain local time",
+  "contribution": "contributions/001-time-uncertainty-study.md",
+  "stage": "Synthetic parameter study with observations and explicit clock-bound assumptions",
+  "topics": [
+    "security-research",
+    "zero-trust",
+    "disconnected-systems",
+    "assurance"
+  ],
+  "description": "Inspectable research and assessments: Access decisions under uncertain local time. Synthetic parameter study with observations and explicit clock-bound assumptions."
+}

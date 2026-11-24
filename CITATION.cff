@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: 'If you reuse this original contribution, cite this repository and its exact commit.'
+title: 'Inspectable research and assessments'
+authors:
+  - family-names: Srivastava
+    given-names: Ashish
+url: https://github.com/cybersmeashish/security-research-and-assessments

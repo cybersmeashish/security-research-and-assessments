@@ -1,0 +1,17 @@
+{
+  ".gitignore": "c5da61d8697ccd4dad4014069b94ed2a9cd5765cd0ea80676f5eda3548d32225",
+  "AGENTS.md": "ae684626b26de39c260457fb7994e9bfa8060bf3da331b48a396aa5cb8d92d7f",
+  "CITATION.cff": "023f8de423605f0d4e98a31f692692c4c96efadc7c81f022875ed6500406b95a",
+  "CONTRIBUTING.md": "74c4b771625c1b0712702cc9641f2e6a571b065cceaad28b11e80afe71044fb9",
+  "CONTRIBUTIONS.md": "64ea3db04904d53bed74795cb9892757ccfd67ea163b25c9bd261795ee4f7f84",
+  "LICENSE": "4df23e737915f9b62c5430b633e6b74104f5c9f9f154cc93e9fe89318f84b5b0",
+  "README.md": "7aa9c28bced8b8faef6ab177186ee051e315066f7b6e6f0605375b0b20c65362",
+  "SECURITY.md": "25e8da3dd7d659597d57199598ad955a03107b26d33c8e05ebb318816e0a02bd",
+  "contributions/001-time-uncertainty-study.md": "595b471464060bf6271d736819f0e47a73091fa8c27c88e39b9e2b86f8445c0a",
+  "fixtures/contribution.json": "15d68e38f56f3d6dbed34860d16e12dc7a8a78c233f130c19442171182b34db3",
+  "tests/test_time.py": "517807aae3a13ddd9f62fa2255a9f2a8dfd2c78d4dfb164078a445e724a7687b",
+  "tools/README.md": "d4ddbae75bf96f0e558bc6346ae3d9620313118d55fd7857501087a3aa209319",
+  "tools/experiment.py": "116c4cbebcc2f73875d28c00fdf7b1f799df75ee5075e4a459abe9cdc67d1621",
+  "tools/time_model.py": "0acc2bc87e8a5c9ecdde76a4ffbd28dfda55660950603ff702495cf450f41f6a",
+  "tools/verify.py": "befa930dd988f221c071e0fb63714bd512bc0aa559e49d06a79dccf88eb922c7"
+}
